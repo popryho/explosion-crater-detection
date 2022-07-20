@@ -143,3 +143,7 @@ dmypy.json
 # Project exclude paths
 /data/
 /dataset/train/
+/dataset/train_01/
+/dataset/train_02/
+/dataset/train_03/
+/dataset/train_04/
